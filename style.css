@@ -1,0 +1,75 @@
+.hoverbox1:hover {
+ color: #008BDC;
+ box-shadow: 0 .25rem .25rem rgba(0,0,0,.075)!important;
+}
+
+.box1 {
+ color: #333;
+}
+.text {
+ /* line-height: 3; */
+ font-weight: 500;
+}
+.footer {
+ background-color: #333;
+}
+.list {
+ text-decoration: none;
+ color: white;
+}
+
+.btn-blue {
+ color: #00A5EC !important;
+ border-color: #00A5EC !important;
+ /* padding: .1rem .7rem .3rem .7rem !important; */
+}
+
+.btn-primary {
+ color: #fff;
+ background-color: #00A5EC !important;
+ border-color: #ffffff !important;
+}
+
+.btn-white {
+ color: #ffffff !important;
+ border-color: #ffffff !important;
+}
+
+/* .w-40 {
+ width: 40%!important;
+ display: flex;
+ justify-content: center;
+} */
+
+#search_bar {
+ display: flex;
+ justify-content: center;
+}
+
+.viewPara {
+ font-size: 18px;
+ line-height: 1.22;
+ color: #484848;
+}
+
+.viewLink{
+ color: #008BDC;
+ font-size: 16px;
+ font-weight: 600;
+}
+
+.viewLink {
+ font-weight: 700;
+ text-decoration: none !important;
+ color: #008BDC !important;
+}
+
+.btn-white {
+ color: #ffffff !important;
+ border-color: #ffffff !important;
+}
+
+.bg-golden {
+ background-color: #FF8C00;
+ padding: .1rem .7rem .3rem .7rem !important;
+}
